@@ -17,6 +17,7 @@
 |01.10| |01.10|Дистрибутивная семантика: Word2Vec и подобное [Презентация](https://docs.google.com/presentation/d/1ZSAlN-RDxS8uvX_tvYXDLjtY05UFLuRsfMF3M2vZCEQ/edit?usp=sharing), [Тетрадка](seminars/sem4_embedders_full.ipynb)|[Домашка 2: сравнение теггеров](Hometask_2.md)|[Соревнование Dialogue для морфологических парсеров](http://www.dialog-21.ru/media/1674/49.pdf)|домашка к 20.10 23:59, ридинг к 08.10
 |08.10|2 лекции: [Автоматический морфологический анализ](https://github.com/AlexanderOrloff/hse-nlp/blob/2024/2025/3rd_year/slides/4-pos-tagging.pptx), [Введение в автоматический синтаксический анализ: constituency structure](https://github.com/AlexanderOrloff/hse-nlp/blob/2024/2025/3rd_year/slides/5-synt-ConstitStructeres.pptx) |08.10|Разбор библиотек Natasha и Spacy, [Нерешённая тетрадка](seminars/sem5_natasha_and_co_clean.ipynb)|-|-|-|
 |15.10|2 лекции в видео формате |15.10|Синтаксис и spacy, [Нерешённая тетрадка](seminars/sem6_syntax_clean.ipynb)|-|-|-|
+|22.10||22.10|Индексация и поиск, [Нерешённая тетрадка](seminars/sem7_indexing_and_search_clean.ipynb)|-|-|-|
 
 ## Дополнительные материалы<a name="add"/>
 [Лекция 1](Notes/1-intro.md)
