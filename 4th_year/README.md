@@ -4,6 +4,8 @@
 3. [Общая литература](#ref)
 4. [Дополнительные материалы](#add)
 
+https://colab.research.google.com/drive/1rxU4VeAxOrLiCwolaD35xh5ow9qxJLXp#scrollTo=mAFkDP2lkDeO
+
 
 https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing ноут 2
 
