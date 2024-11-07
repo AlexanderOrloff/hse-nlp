@@ -4,6 +4,9 @@
 3. [Общая литература](#ref)
 4. [Дополнительные материалы](#add)
 
+
+https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing ноут 2
+
 ## Оценка:<br><a name="score"/>
 квизы по материалам лекций - 25%<br>
 домашние задания – 30% <br>
