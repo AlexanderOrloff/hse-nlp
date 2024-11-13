@@ -4,10 +4,6 @@
 3. [Общая литература](#ref)
 4. [Дополнительные материалы](#add)
 
-https://colab.research.google.com/drive/1rxU4VeAxOrLiCwolaD35xh5ow9qxJLXp#scrollTo=mAFkDP2lkDeO
-
-
-https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing ноут 2
 
 ## Оценка:<br><a name="score"/>
 квизы по материалам лекций - 25%<br>
@@ -20,7 +16,8 @@ https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sh
 ## Расписание лекций, семинаров и домашних заданий<a name="sched"/>
 |Дата|Лекция|Дата|Семинар|Домашнее задание|Дедлайн|
 |-|-|-|-|-|-|
-|6.11|[Named Entity Recognition](Slides/3_NER.i)|-|-|-|-|
+|6.11|[Named Entity Recognition](Slides/3_NER.i)|7/11|[YARGY semi-done](https://colab.research.google.com/drive/1rxU4VeAxOrLiCwolaD35xh5ow9qxJLXp#scrollTo=mAFkDP2lkDeO
+) [Yargy-ноутбук2](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing) [NER NEURAL](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing) [RUBERT](https://youtu.be/eKTA8i8s-zs?si=vXFLEqNXMqoVmptF)|-|-|
 |13.11||||
 
 ## Основная литература по курсу<a name="ref"/>
