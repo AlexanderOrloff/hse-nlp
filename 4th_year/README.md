@@ -18,7 +18,7 @@
 |-|-|-|-|-|-|
 |6.11|[Named Entity Recognition](Slides/3_NER.i)|7.11 и 14.11|[YARGY semi-done](https://colab.research.google.com/drive/1rxU4VeAxOrLiCwolaD35xh5ow9qxJLXp#scrollTo=mAFkDP2lkDeO) [Yargy-ноутбук2](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing) [NER NEURAL](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing) [RUBERT](https://drive.google.com/file/d/1MoG723dA2RW7wi0_vg3C6QVYQht80GBG/view?usp=sharing)|-|-|
 |13.11||14.11|--"--|
-
+|13.11||14.11|--"--|
 
 ## Основная литература по курсу<a name="ref"/>
 [тут](References.md)
