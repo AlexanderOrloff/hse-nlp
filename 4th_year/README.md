@@ -18,8 +18,8 @@
 |-|-|-|-|-|-|
 |6.11|[Named Entity Recognition](Slides/3_NER.i)|7.11 и 14.11|[YARGY semi-done](https://colab.research.google.com/drive/1rxU4VeAxOrLiCwolaD35xh5ow9qxJLXp#scrollTo=mAFkDP2lkDeO) [Yargy-ноутбук2](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing) [NER NEURAL](https://colab.research.google.com/drive/1BSuvHgeoARGEgGrDDBElCMIMAPWGA-WK?usp=sharing) [RUBERT](https://drive.google.com/file/d/1MoG723dA2RW7wi0_vg3C6QVYQht80GBG/view?usp=sharing)|-|-|
 |13.11|||--"--|
-|13.11||18.11|[Text Summarization LSA LDA blank](https://colab.research.google.com/drive/1ffzlI7LE98o05ZsymltQQGN6IPhbt6X4?usp=sharing) [Text Summarization LSA LDA done](https://colab.research.google.com/drive/1ZgwKjTp2IJGPgA3IYQaSwK4-Ie__BfPw?usp=sharing)  ссылки на статьи| [sentiment analysis: основные подходы](https://github.com/AlexanderOrloff/hse-nlp/blob/2024/2025/4th_year/hw/hw1.md)| 7 декабря 23:59
-|||05.12|[WSD пустой](https://colab.research.google.com/drive/1mYGpAt_9c3pvun6ulPPcbMyGUzqZFhW8?usp=sharing), [WSD готовый](https://colab.research.google.com/drive/1N62NG-apwwzRqMXWkYnLZxCyLTpHYXnM?usp=sharing)|
+|13.11||18.11|[Text Summarization+LSA+LDA blank](https://colab.research.google.com/drive/1ffzlI7LE98o05ZsymltQQGN6IPhbt6X4?usp=sharing) [Text Summarization+LSA+LDA done](https://colab.research.google.com/drive/1ZgwKjTp2IJGPgA3IYQaSwK4-Ie__BfPw?usp=sharing)  ссылки на статьи| [sentiment analysis: основные подходы](https://github.com/AlexanderOrloff/hse-nlp/blob/2024/2025/4th_year/hw/hw1.md)| 7 декабря 23:59
+|||05.12|[WSD/WSI пустой](https://colab.research.google.com/drive/1mYGpAt_9c3pvun6ulPPcbMyGUzqZFhW8?usp=sharing), [WSD/WSI готовый](https://colab.research.google.com/drive/1N62NG-apwwzRqMXWkYnLZxCyLTpHYXnM?usp=sharing)|
 
 ## Основная литература по курсу<a name="ref"/>
 [тут](References.md)
